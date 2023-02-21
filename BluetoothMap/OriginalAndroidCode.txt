@@ -1,0 +1,2 @@
+This is the original poster of the Android Studio code: https://github.com/bauerjj/Android-Simple-Bluetooth-Example
+Thank you very much Justin! You showed us all how to combine the hodge podge that is Bluetooth on Android, into a useable format.
